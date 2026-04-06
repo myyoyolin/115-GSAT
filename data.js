@@ -1,5 +1,5 @@
 window.GSAT_DATA = {
-  "builtAt": "2026-04-06T04:28:00.705Z",
+  "builtAt": "2026-04-06T07:33:46.698Z",
   "subjects": [
     {
       "id": "chinese",
@@ -632,7 +632,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "25",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "下列各組「」內的詞，意義前後相同的是：",
           "choices": [
@@ -657,12 +657,12 @@ window.GSAT_DATA = {
               "text": "臣聞吏議逐客，「竊」以為過矣／「竊」慕 管夫人之墨竹，紙上生風 - 7 -  115年學測                請記得在答題卷簽名欄位以正楷簽全名                             第 8 頁 國語文綜合能力測驗                                                           共 11 頁"
             }
           ],
-          "answer": "B",
+          "answer": "BE",
           "sourceType": "official-txt"
         },
         {
           "id": "26",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "下列文句畫底線的詞語，運用適當的是：",
           "choices": [
@@ -687,12 +687,12 @@ window.GSAT_DATA = {
               "text": "王經理發現錯誤後，立即調整方向，曲突徙 薪，有效解決問題"
             }
           ],
-          "answer": "A",
+          "answer": "ABD",
           "sourceType": "official-txt"
         },
         {
           "id": "27",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "關於下文的寫作特色，分析適當的是：\n        次日晨起，復至峽，觀香爐 紫烟，心動。僧曰：「至黃巖之文殊塔，瀑勢乃極。」\n    杖而往，磴狹且多折，芒草割人面。少進，石 愈嶔。白日蒸厓，如行熱冶中，微聞諸客\n    皆有嗟嘆聲。既至半，力皆憊，遊者昏昏愁墮，一客眩思返。余曰：「戀軀惜命，何用\n    遊山？且而與其死於床笫，孰若死於一片冷石也？」客大笑，勇百倍。頃之，躋其巔，\n    入 黃 巖 寺 。 少 定 ， 折 而 至 前 嶺 ， 席 文 殊 塔 觀 瀑。 瀑 注 青 壁 下 ， 雷 奔 海 立 ， 孤 搴 萬 仞 ，\n    峽風逆之，簾捲而上，忽焉橫曳，東披西帶。（袁宏道〈開先寺至黃巖寺觀瀑記〉）",
           "choices": [
@@ -717,12 +717,12 @@ window.GSAT_DATA = {
               "text": "以宗教空間的轉換為寫景主線，景隨步移， 營造山林幽寂的禪意"
             }
           ],
-          "answer": "A",
+          "answer": "ABD",
           "sourceType": "official-txt"
         },
         {
           "id": "28",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "文學除了以視覺接收，也會以聽覺感受。關於文學的聲音表現，敘述適當的是：",
           "choices": [
@@ -747,12 +747,12 @@ window.GSAT_DATA = {
               "text": "新月派的新詩講求韻律，有時會押「行內韻」─即一句內有兩個同韻字， 詞句加工                                                                音節        如徐志摩〈再別康橋〉「是夕陽中的新娘」、「夏蟲也為我沉默」                                                                      平仄"
             }
           ],
-          "answer": "A",
+          "answer": "ACDE",
           "sourceType": "official-txt"
         },
         {
           "id": "29",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "關於樂曲的彈奏與聆聽，符合下文敘述的是：                    押韻\n    甲、孔子學鼓琴於師 襄子而不進。 師 襄子曰：「夫子可以進矣！」 孔子曰：\n        「丘已得其曲矣，未得其數也。」有間，曰：「夫子可以進矣！」曰：「丘已得其數矣，\n        未得其意也。」有間，復曰：\n                    「夫子可以進矣！」曰： 「丘已得其人矣，未得其類也。」\n        有間，曰：「……必作此樂也，默然思 ，戚然 而悵，以王天下，以朝諸侯者，其惟\n        文王乎？」師襄子避席再拜曰：「善！師以為文王之操也。」（《韓詩外傳》）\n    乙、孔子鼓瑟，曾子、子貢側門而聽。曲終，曾子曰：   「嗟乎！夫子瑟聲殆有貪狼之志，\n        邪僻之行，何其不仁，趨利之甚。」子貢以為然，……以曾子之言告。子曰：  「……\n        丘鼓瑟，有鼠出游，狸見於 屋，循梁微行，造 焉而避，厭目曲脊，求而不得，丘以\n        瑟淫其音，參以丘為貪狼邪僻，不亦宜乎！」（《韓詩外傳》）",
           "choices": [
@@ -777,12 +777,12 @@ window.GSAT_DATA = {
               "text": "彈奏者心思可能自樂曲流露，如師襄子聽出 孔子上進之心，曾子聽出孔子貪狼之志                                                                          - 8 -  第 9 頁                 請記得在答題卷簽名欄位以正楷簽全名                     115年學測 共 11 頁                                                  國語文綜合能力測驗  30-31為題組。閱讀下文，回答30-31題。                    甲   〈出師表〉違異 了「表」的 典型特質。 全篇 始 於「臣亮言」，                   但這位說話的「臣」受劉備遺命：                                 「若嗣子可輔，輔之，如其不才，                   君 可 自 取 」， 其 實 具 有 廢 立 的 權 柄 。 文 中 十 三 次 提 及 「 先 帝 」，  表，下言於上，故須        使「陛下」成了虛位，故「討賊興復之效」乃陛下「託」臣而非「命」臣。  先曰「臣某言」        ，後曰        又此表也不以「誠惶誠恐，稽首頓首」結束，而是頗具生離死別意味  「 臣 某 誠 惶誠 恐 ，   的真情流露：「今當遠離，臨表涕泣，不知所云 」，是以格外感人。  稽首頓首」。           （改寫自柯慶明〈「表」、「奏」作為文學類型之美感特質的研究〉）    乙 今南方已 定，兵 甲已足 ，當獎 率三軍，             丙 陛下即祚，復蒙試用，遂受上將之任，  北定中原。庶竭駑鈍，攘除姦凶，興復漢室，                 統領二州，內參機事，實所不堪。……臣  還於舊都，此臣所以報先帝而忠陛下之職分也。                以區區之質，而當鐘鼎之任；以闇鈍之才，  至於斟酌損益，進盡忠言，則攸之、禕、允之                 而奉明明之政。顧恩念責，亦臣竭節授命  任也。願陛 下託臣 以討賊 興復之效 ，不效，              之秋也。謹條遵奉舊訓權時之宜十四事，  則治臣之罪，以告先帝之靈。若無興德之言，                 奏如左，庶以蒸螢增明太陽，言不足採。  則責攸之、 禕、允 等之慢 ，以彰其 咎。陛下              （曹操〈陳損益表〉）  亦宜自課，以諮諏善道，察納雅言，深追先帝  遺詔，臣不勝受恩感激。今當遠離，臨表 涕泣，                 東漢建安元年，曹操迎漢獻帝至許都，受封  不知所云。（諸葛亮〈出師表〉）                        司空，進呈此表。"
             }
           ],
-          "answer": "C",
+          "answer": "CD",
           "sourceType": "official-txt"
         },
         {
           "id": "30",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "「表」是古代官員進言的媒介，自信與謙敬的聲音常並存表中。關於乙、丙文的敘述，\n    適當的是：",
           "choices": [
@@ -807,12 +807,12 @@ window.GSAT_DATA = {
               "text": "二文均期許自己為朝廷效力，並盼國君充分 授權以為後盾"
             }
           ],
-          "answer": "C",
+          "answer": "CD",
           "sourceType": "official-txt"
         },
         {
           "id": "31",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "甲文運用文體知識，深入解讀乙文 表層文字下的聲音，若循此方式觀察丙文，關於 乙、\n    丙文違異「表」的典型特質，敘述適當的是：",
           "choices": [
@@ -837,7 +837,7 @@ window.GSAT_DATA = {
               "text": "二文的進言口吻，雖減省部分常見的應酬詞 語，但仍符合身為臣下應有的態度  第 貳 部 分 、 混 合 題 或 非 選 擇 題 （ 占 24 分 ） 說明：本部分共有1題組，選擇題每題2分，非選擇題配分標於題末。限在答題卷標示題號    的作答區內作答。    選擇題使用2B鉛筆作答，更正時以橡皮擦擦拭，切勿使用修正帶（液）。非選擇題    請由左而右橫式書寫，並依題目指示作答。 - 9 -  115年學測                請記得在答題卷簽名欄位以正楷簽全名                            第 10 頁 國語文綜合能力測驗                                                          共 11 頁  32-36 為題組。閱讀下文，回答 32-36 題。                           聽見 在文學與歷史的敘事中， 女性的聲音長期被忽略、                             「聽見她的聲音」，不僅是在文本中發掘 壓抑或誤讀……                                 女性話語的紀錄，更在於理解女性能否                                         主動發聲，或如何被表達、被建構。                               她的聲音      我認為：三代王教修明，內外順治，                    「閨門之事皆可歌詠而傳道之」                                 。所述 雖 「 婦 人 女 子 之 常 ， 而 事 之 至 微 者 」， 但 「 幽 閑 貞 靜 之 德 ， 隱 然 寓 於 其 間 ， 而足以章明王者之化」。可惜的是，此後女子在史傳作者眼中，必有「非平常 之行」，乃能「著美名」於後世，導致女性「罕可紀述」，幾近銷聲匿跡。                                  歸有光  甲      下列三段節錄文字，都出自歸有光的作品：        〈項脊軒志〉：一日，大母過余曰：「吾兒，久 不見若影，何竟日默默在此，大類     女 郎 也 ？ 」 比 去 ， 以 手 闔 門 ， 自 語 曰 ：「 吾 家 讀 書 久 不 效 ， 兒 之 成 ， 則 可 待 乎 ？ 」     頃之，持一象笏至，曰：「此吾祖太常公宣德間執此以朝，他日汝當用之。」        〈 先 妣 事 略 〉： 有 光 七 歲 ， 與 從 兄 有 嘉 入 學 。 每 陰 風 細 雨 ， 從 兄 輒 留 ， 有 光 意     戀戀，不得留也。孺人中夜覺寢，促有光暗誦《孝經》                            ，即熟讀，無一字齟齬，乃喜。        〈祭外姑文〉：昔吾亡妻，能孝於吾父母，友於 吾女兄弟，知夫人 (按：即外姑，     指妻子的母親)之能教也；粗食之養，未嘗不甘，知夫人之儉也。"
             }
           ],
-          "answer": "A",
+          "answer": "ABE",
           "sourceType": "official-txt"
         },
         {
@@ -2494,7 +2494,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "7",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "下 列 敘 述 哪 些 正 確 ？ （ 應 選 2 項 ）",
           "choices": [
@@ -2519,12 +2519,12 @@ window.GSAT_DATA = {
               "text": "海 嘯 波 可 以 在 大 洋 中 傳 遞 ， 並 在 遠 處 造 成 災 害 ， 因 此 需 要 全 球 性 的 預 警 系 統"
             }
           ],
-          "answer": "A",
+          "answer": "AE",
           "sourceType": "official-txt"
         },
         {
           "id": "8",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "以 311 大 地 震 為 例 ， 若 P 波 波 速 為 每 秒 6 公 里 ， S 波 波 速 為 每 秒 3 公 里 ， 海 嘯 波\n    波 速 為 每 分 鐘 12 公 里 。 假 設 距 離 震 源 最 近 的 地 震 站 位 於 和 震 源 相 距 150 公 里 的\n    海 岸 線 上，該 地 震 站 收 到 P 波 後，計 算 並 發 出 地 震 與 海 嘯 預 警 的 時 間 約 需 10 秒，\n    則下列敘述哪些正確？（應選 2 項）",
           "choices": [
@@ -2549,12 +2549,12 @@ window.GSAT_DATA = {
               "text": "海 嘯 抵 達 海 岸 線 前 的 預 警 時 間 約 為 120 分 鐘"
             }
           ],
-          "answer": "B",
+          "answer": "BD",
           "sourceType": "official-txt"
         },
         {
           "id": "9",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "科 學 家 以 各 種 方 式 研 究 不 同 時 間 尺 度 上 的 氣 候 變 遷，圖 3 為 臺 灣 某 平 原 與 高 山 湖 泊\n   中 沉 積 物 岩 芯 的 孢 子 與 花 粉 重 建 紀 錄。縱 軸 為 沉 積 物 岩 芯 的 深 度，橫 軸 為 蕨 類 孢 子\n   或 鐵 杉 花 粉 於 該 深 度 所 有 孢 子 與 花 粉 總 量 所 占 的 比 例。已 知 蕨 類 喜 歡 潮 濕 的 環 境，\n   鐵杉喜歡冷涼的環境，假設兩岩芯同樣的深度代表同樣的沉積年代，下列敘述\n   哪些正確？（應選 2 項）                                      蕨類孢子紀錄",
           "choices": [
@@ -2579,7 +2579,7 @@ window.GSAT_DATA = {
               "text": "湖 泊 沉 積 物 中 的 孢 子 與 花 粉 組 合 變 化 主 要       0 50 100    0 50 100                                                    （%）         （%）         是受到人為活動（例如伐木）的影響                                                   平原湖泊        高山湖泊                                                               圖3  - 3 -  115年學測                     請記得在答題卷簽名欄位以正楷簽全名                       第 4 頁 自然考科                                                               共 19 頁"
             }
           ],
-          "answer": "A",
+          "answer": "AC",
           "sourceType": "official-txt"
         },
         {
@@ -2614,7 +2614,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "11",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "假 設 重 物 的 位 移 、 速 度 、 加 速 度 與 所 受 合 力 分 別 為 D 、 v 、 a   丁\n   與 F ，則下列敘述哪些正確？（應選 2 項）                                  丙",
           "choices": [
@@ -2639,12 +2639,12 @@ window.GSAT_DATA = {
               "text": "丙 至 丁 段 路 程 之 中 a 與 F 的 方 向 相 同                            圖5"
             }
           ],
-          "answer": "D",
+          "answer": "DE",
           "sourceType": "official-txt"
         },
         {
           "id": "12",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "假 設 U甲乙 、 U乙丙 及 U 丙丁 分 別 代 表 重 物 於 甲 至 乙 、 乙 至 丙 及 丙 至 丁 三 段 路 程 中\n   起 點 與 終 點 的 重 力 位 能 變 化 量 ，  K甲乙 、  K乙丙 及  K丙丁 分 別 代 表 重 物 於 甲 至 乙 、\n   乙至丙及丙至丁三段路程中起點與終點的動能變化量，則下列關係哪些正確？\n   （應選 2 項）",
           "choices": [
@@ -2669,7 +2669,7 @@ window.GSAT_DATA = {
               "text": "U甲乙  U乙丙  U 丙丁  0                                                                        - 4 -  第 5 頁                            請記得在答題卷簽名欄位以正楷簽全名                                                           115年學測 共 19 頁                                                                                                       自然考科"
             }
           ],
-          "answer": "B",
+          "answer": "BE",
           "sourceType": "official-txt"
         },
         {
@@ -2974,7 +2974,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "23",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "圖 9 為 週 期 表 的 一 部 分，下 列 關 於 甲 ～ 戊 5 種 元 素 的 敘 述，哪 些 正 確 ？（ 應 選 2 項 ）\n\n                                               圖9",
           "choices": [
@@ -2999,7 +2999,7 @@ window.GSAT_DATA = {
               "text": "獲 得 電 子 的 趨 勢 ： 戊 ＞ 丁 ＞ 甲  - 7 -  115年學測                           請記得在答題卷簽名欄位以正楷簽全名                                       第 8 頁 自然考科                                                                                     共 19 頁"
             }
           ],
-          "answer": "A",
+          "answer": "AE",
           "sourceType": "official-txt"
         },
         {
@@ -3034,7 +3034,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "25",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "在 上 述 步 驟 中 ， 包 括 下 列 哪 些 實 驗 方 法 ？ （ 應 選 2 項 ）",
           "choices": [
@@ -3059,12 +3059,12 @@ window.GSAT_DATA = {
               "text": "萃 取 法                                                                                               - 8 -  第 9 頁                     請記得在答題卷簽名欄位以正楷簽全名                        115年學測 共 19 頁                                                             自然考科"
             }
           ],
-          "answer": "C",
+          "answer": "CD",
           "sourceType": "official-txt"
         },
         {
           "id": "26",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "下 列 相 關 敘 述 ， 哪 些 選 項 正 確 ？ （ 應 選 3 項 ）",
           "choices": [
@@ -3089,12 +3089,12 @@ window.GSAT_DATA = {
               "text": "步 驟 5 的 沉 澱 物 主 要 是 NaClO 4"
             }
           ],
-          "answer": "A",
+          "answer": "ABC",
           "sourceType": "official-txt"
         },
         {
           "id": "27",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "在 步 驟 5 中 的 反 應 ， 下 列 相 關 敘 述 ， 哪 些 正 確 ？ （ 應 選 3 項 ）",
           "choices": [
@@ -3119,7 +3119,7 @@ window.GSAT_DATA = {
               "text": "平 衡 反 應 式 的 最 小 整 數 係 數 和 為 4"
             }
           ],
-          "answer": "A",
+          "answer": "ABE",
           "sourceType": "official-txt"
         },
         {
@@ -3222,7 +3222,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "31",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "人 類 ABO 血 型 的 遺 傳 現 象 可 用 孟 德 爾 遺 傳 法 則 解 釋。某 家 族 三 代 ABO 血 型 的 關 係，\n  除 X 與 Y 未 知 外，其 餘 成 員 的 血 型 皆 已 填 入 譜 系 圖 中，\n  如 圖 10 所 示 。 若 依 法 則 ， 並 以 （ X、 Y） 組 合 填 入\n  此二成員的基因型，則下列哪些合理？（應選 2 項）",
           "choices": [
@@ -3247,12 +3247,12 @@ window.GSAT_DATA = {
               "text": "（ i i 、 I A i ）                                                     圖 10"
             }
           ],
-          "answer": "A",
+          "answer": "AC",
           "sourceType": "official-txt"
         },
         {
           "id": "32",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "ATP 是 真 核 細 胞 運 作 的 重 要 分 子 ， 有 關 此 分 子 ， 下 列 哪 些 正 確 ？ （ 應 選 2 項 ）",
           "choices": [
@@ -3277,7 +3277,7 @@ window.GSAT_DATA = {
               "text": "水 解 後 會 吸 收 能 量 而 抑 制 細 胞 生 長"
             }
           ],
-          "answer": "C",
+          "answer": "CD",
           "sourceType": "official-txt"
         },
         {
@@ -3342,7 +3342,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "35",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "有 關 共 同 祖 先 的 概 念 及 演 化 證 據 對 生 物 分 類 系 統 之 影 響 ， 下 列 敘 述 哪 些 正 確 ？\n   （應選 2 項）",
           "choices": [
@@ -3367,7 +3367,7 @@ window.GSAT_DATA = {
               "text": "真 核 生 物 具 有 DNA 位 於 核 膜 內 的 特 徵，說 明 他 們 有 一 個 不 為 古 菌 域 所 擁 有 的          共同祖先"
             }
           ],
-          "answer": "D",
+          "answer": "DE",
           "sourceType": "official-txt"
         },
         {
@@ -3402,7 +3402,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "37",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "關 於 Dmrt1 與 Kdm6b 兩 基 因 的 敘 述 或 推 論 ， 下 列 哪 些 正 確 ？ （ 應 選 3 項 ）",
           "choices": [
@@ -3427,12 +3427,12 @@ window.GSAT_DATA = {
               "text": "Kdm6b 蛋 白 質 會 在 細 胞 核 中 幫 助 Dmrt1 基 因 的 轉 錄  - 11 -  115年學測               請記得在答題卷簽名欄位以正楷簽全名                                第 12 頁 自然考科                                                                  共 19 頁"
             }
           ],
-          "answer": "B",
+          "answer": "BDE",
           "sourceType": "official-txt"
         },
         {
           "id": "39",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "Dmrt1 基 因 從 「 共 同 祖 先 」 之 祖 先 型 演 化 出 線 蟲 、 昆 蟲 和 魚 類 ， 乃 至 兩 生 類 、\n  爬 蟲 類、鳥 類 和 哺 乳 類 等 不 同 衍 生 型 的 版 本，形 成 一 個 基 因 族。發 展 至 今，此 基 因 族\n  是 一 個 高 度 保 守（ 即 大 體 上 維 持 與 過 去 相 同 ）\n                                       ，而 且 其 成 員 間 能 忠 實 反 映 類 群 演 化\n  的 分 子 性 狀。今 以 巴 西 龜 的 Dmrt1 基 因 對 青 蛙、大 鼠、蛇、蜥 蜴、鱷 魚 及 鳥 的 同 源 DNA\n  做 親 緣 分 析 ， 得 圖 14， 則 下 列 圖 示 哪 些 合 理 ？                             青蛙\n  （應選 2 項）                                                            大鼠\n\n                                                            巴西龜\n\n                                                                 鱷魚\n                                                                        鳥\n                                                             蜥蜴\n\n                                                                           蛇\n                                                            圖 14",
           "choices": [
@@ -3457,7 +3457,7 @@ window.GSAT_DATA = {
               "text": "青蛙 大鼠 蜥蜴 蛇 烏龜 鱷魚 鳥      青蛙 鱷魚 烏龜 蛇 蜥蜴 鳥 大鼠                                                                         - 12 -  第 13 頁                                        請記得在答題卷簽名欄位以正楷簽全名                                                 115年學測 共 19 頁                                                                                                          自然考科  40-43 題 為 題 組                     植物的花蜜富含香氣，可吸引某些鳥類前來取食。鳥類吸取花蜜之時，身體會 接觸到花蕊與花粉，間接幫助植物授粉及繁衍後代。研究發現某野生菸草，其花蜜 的 主 要 成 分 為 具 香 氣 的 苄 丙 酮 與 具 毒 性 的 尼 古 丁 ， 兩 者 結 構 式 如 圖 15。                     為了探究這兩種成分對蜂鳥取食花蜜及對菸草繁衍的影響，研究者創造了花蜜 中只含苄丙酮、只含尼古丁、以及兩者都缺乏的三型基改菸草。                                                                      苄丙酮                        尼古丁                                                                                    圖 15                     然後，將這三型基改菸草與野生型菸草分別種植在不同樣區，於菸草開花期間 同 步 記 錄 各 區 每 天 受 蜂 鳥 到 訪 的 花 朵 數 目 （ 圖 1 6 甲 ）、 蜂 鳥 在 每 朵 花 停 留 時 間 的 平 均 值（ 圖 16 乙 ）               、果 實 之 成 熟 率（ 圖 16 丙 ）與 花 朵 中 花 蜜 剩 餘 的 體 積（ 圖 16 丁 ）                                                                   。                     圖 16 之 甲 ～ 丁 橫 軸 為 花 蜜 中 含 苄 丙 酮 及 尼 古 丁 的 狀 態 ， 如 表 7 的 說 明 。 依 據 圖 文 資 料 ， 回 答 40～ 43 題 。                （甲）                                             （乙）   每天受訪花朵數︵朵 ︶                                                平均停留時間︵ 秒 ︶                55                                              2.0                 50                                              1.8                                       表7                45                                              1.6                                                                                                  圖示        狀態                40                                              1.4                 35                                              1.2                               +/+   含苄丙酮及尼古丁                30                                              1.0                                     含苄丙酮，但無尼古丁                                                                                                  +/-                      +/+   + /- - /+   - /-                          +/+   + /-   - /+   - /-                                                                                                  -/+   無苄丙酮，但含尼古丁                                                                                                   -/-   不含苄丙酮與尼古丁                （丙）                                             （丁）                                                          1.6                                                花蜜剩餘 體積︵ 微 升 ︶   40                                                          1.4 果 35                                                          1.2 實 30 成 25                                                     1.0 熟 20                                                     0.8 率                                                        0.6 ︵ 15 % 10                                                     0.4 ︶ 5                                                      0.2   0                                                      0.0                      +/+   + /- - /+   - /-                          +/+   + /- - /+     - /-                                           圖 16  - 13 -  115年學測               請記得在答題卷簽名欄位以正楷簽全名                              第 14 頁 自然考科                                                                共 19 頁"
             }
           ],
-          "answer": "A",
+          "answer": "AD",
           "sourceType": "official-txt"
         },
         {
@@ -3522,7 +3522,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "44",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "關 於 硫 化 鋅 量 子 點 合 成 實 驗 的 敘 述 ， 下 列 哪 些 正 確 ？ （ 應 選 2 項 ）",
           "choices": [
@@ -3547,12 +3547,12 @@ window.GSAT_DATA = {
               "text": "合 成 實 驗 時 ， 添 加 冰 冷 的 乙 醇 ， 可 增 加 硫 化 鋅 奈 米 粒 子 的 溶 解 度"
             }
           ],
-          "answer": "A",
+          "answer": "AB",
           "sourceType": "official-txt"
         },
         {
           "id": "45",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "關 於 表 8 實 驗 結 果 的 敘 述 ， 下 列 哪 些 正 確 ？ （ 應 選 3 項 ）",
           "choices": [
@@ -3577,7 +3577,7 @@ window.GSAT_DATA = {
               "text": "硫 化 鋅 量 子 點 的 鋅 離 子 / 硫 離 子 （ Zn 2+ / S2 - ） 比 例 遠 大 於 1  - 15 -  115年學測                      請記得在答題卷簽名欄位以正楷簽全名                               第 16 頁 自然考科                                                                        共 19 頁"
             }
           ],
-          "answer": "A",
+          "answer": "ABC",
           "sourceType": "official-txt"
         },
         {
@@ -3612,7 +3612,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "48",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "下 列 有 關 波 長  為 13.5 nm 的 EUV 光 子 能 量 E 的 敘 述，哪 些 正 確 ？（ 應 選 2 項 ）",
           "choices": [
@@ -3637,7 +3637,7 @@ window.GSAT_DATA = {
               "text": "E 約 為 5 ×10-44 J"
             }
           ],
-          "answer": "A",
+          "answer": "AD",
           "sourceType": "official-txt"
         },
         {
@@ -3672,7 +3672,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "52",
-          "type": "single",
+          "type": "multi",
           "score": 2,
           "stem": "若 設 置 圖 20 的 水 車 發 電 機 系 統 之 海 域 每 日 有 二 次 漲 潮 ， 平 均 每 一 次 漲 潮 時 經 過\n   水 車 發 電 機 系 統 通 道 的 海 水 體 積 V 約 為 2.5 ×106 m3 ， 這 些 海 水 因 為 漲 潮 而 被 抬 升\n   的 平 均 高 度 h 約 為 4 m 。 取 重 力 加 速 度 g  10 m / s2 ， 1 度 電 能  1 kWh  3.6 ×106 J ，\n   海 水 密 度  約 為 103 kg / m3 。 假 設 該 設 施 將 海 水 的 重 力 位 能 轉 為 電 能 的 效 率 約 為\n   25%， 則 下 列 敘 述 哪 些 正 確 ？ （ 應 選 2 項 ）",
           "choices": [
@@ -3697,7 +3697,7 @@ window.GSAT_DATA = {
               "text": "該 水 車 發 電 機 系 統 的 運 作 機 制 牽 涉 萬 有 引 力 的 作 用 與 電 磁 感 應"
             }
           ],
-          "answer": "D",
+          "answer": "DE",
           "sourceType": "official-txt"
         },
         {
@@ -3795,7 +3795,7 @@ window.GSAT_DATA = {
               "text": "90 元"
             }
           ],
-          "answer": "C",
+          "answer": "B",
           "sourceType": "official-txt"
         },
         {
@@ -3845,7 +3845,7 @@ window.GSAT_DATA = {
               "text": " f (-20)                                                         10"
             }
           ],
-          "answer": "B",
+          "answer": "A",
           "sourceType": "official-txt"
         },
         {
@@ -3875,7 +3875,7 @@ window.GSAT_DATA = {
               "text": "2   3"
             }
           ],
-          "answer": "B",
+          "answer": "A",
           "sourceType": "official-txt"
         },
         {
@@ -3905,7 +3905,7 @@ window.GSAT_DATA = {
               "text": "560  - 1 -  115年學測                                        請記得在答題卷簽名欄位以正楷簽全名                 第 2 頁 數學A考科                                                                           共 7 頁                                 1   0       0  1       1  0 "
             }
           ],
-          "answer": "Q",
+          "answer": "C",
           "sourceType": "official-txt"
         },
         {
@@ -3935,7 +3935,7 @@ window.GSAT_DATA = {
               "text": "無窮多個"
             }
           ],
-          "answer": "P",
+          "answer": "E",
           "sourceType": "official-txt"
         },
         {
@@ -3970,7 +3970,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "7",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "坐標平面上同時滿足                 的點 P ( x, y ) 可能位在下列哪些選項？\n              x  2y 1 0",
           "choices": [
@@ -3995,12 +3995,12 @@ window.GSAT_DATA = {
               "text": "x 軸            2 1                         a                    bn "
             }
           ],
-          "answer": "C",
+          "answer": "CD",
           "sourceType": "official-txt"
         },
         {
           "id": "8",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "已知 A        ，且對所有正整數 n ≥ 2 ，令 An   n                          。試選出正確的選項。\n               \n          1 0                          cn                  d n ",
           "choices": [
@@ -4025,12 +4025,12 @@ window.GSAT_DATA = {
               "text": "d 2 n - a2 n  (d n ) 2 - (an ) 2                                                                                     - 2 -  第 3 頁                        請記得在答題卷簽名欄位以正楷簽全名                        115年學測 共 7 頁                                                                 數學A考科"
             }
           ],
-          "answer": "B",
+          "answer": "BE",
           "sourceType": "official-txt"
         },
         {
           "id": "9",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "T 分數為評量成績的一種方式，其計算方式如下：設全班平均成績為  且標準差為  。\n                                                      S -\n    若 某 生 原 始 成 績 為 S ， 則 他 該 科 之 T 分 數 為 T  50  10      。已 知 某 班 期 末 數 學 和\n                                                        \n    英文兩科的平均成績皆為 60，數學成績的標準差為 12，英文成績的標準差為 8。試選出\n    正確的選項。",
           "choices": [
@@ -4055,12 +4055,12 @@ window.GSAT_DATA = {
               "text": "該班原始成績數學對英文的迴歸直線（即最適直線）之斜率與該班 T 分數數學對         英文的迴歸直線之斜率相同                                                                 "
             }
           ],
-          "answer": "A",
+          "answer": "ABD",
           "sourceType": "official-txt"
         },
         {
           "id": "10",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "已知四邊形 ABCD 中， AB 平行 DC ， AC 與 BD 交於 E 。若 AB  (2, -6), AD  (1,5) 且 ABE\n    面積為 3 。試選出正確的選項。\n\n                     -7 65",
           "choices": [
@@ -4085,12 +4085,12 @@ window.GSAT_DATA = {
               "text": "BC                 3  - 3 -  115年學測                        請記得在答題卷簽名欄位以正楷簽全名                               第 4 頁 數學A考科                                                                         共 7 頁                                 "
             }
           ],
-          "answer": "A",
+          "answer": "AE",
           "sourceType": "official-txt"
         },
         {
           "id": "11",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "令  為 坐 標 平 面 上 y  cos( x) 的 圖 形 。 對 任 一 實 數 m  0 ， 以 Lm 表 示 直 線 y  mx  1 。\n                            2\n   試選出正確的選項。",
           "choices": [
@@ -4115,12 +4115,12 @@ window.GSAT_DATA = {
               "text": "若 Lm 與  有一交點在 x 軸上，則 Lm 與  有偶數個交點"
             }
           ],
-          "answer": "B",
+          "answer": "BD",
           "sourceType": "official-txt"
         },
         {
           "id": "12",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "令 f ( x) 、 g ( x) 為實係數三次多項 式且 f ( x) 的首項 係數為 1 ，已知 f ( x) - g ( x)  2 x 3  2 x 。\n   令 1 和  2 分別為 f ( x) 和 g ( x) 在坐標平面上的函數圖形，其對稱中心分別為 (a1 , b1 ),(a2 , b2 ) 。\n   試選出正確的選項。",
           "choices": [
@@ -4145,7 +4145,7 @@ window.GSAT_DATA = {
               "text": "若 b1  b2 ，則 a1  a2                                                                                    - 4 -  第 5 頁                     請記得在答題卷簽名欄位以正楷簽全名                                      115年學測 共 7 頁                                                                            數學A考科  三 、 選 填 題 （ 占 25 分 ） 說明：第 13 題至第 17 題，每題 5 分。                       1              3                                1"
             }
           ],
-          "answer": "B",
+          "answer": "BD",
           "sourceType": "official-txt"
         }
       ],
@@ -4195,6 +4195,10 @@ window.GSAT_DATA = {
             {
               "id": "15-1",
               "answer": "3"
+            },
+            {
+              "id": "15-2",
+              "answer": "2"
             }
           ],
           "sourceType": "official-txt"
@@ -4206,8 +4210,12 @@ window.GSAT_DATA = {
           "stem": "16. 坐 標 平 面 上 ， 已 知 二 次 函 數 圖 形  : y  f ( x) 的 頂 點 P 在 直 線 y  1  2 x 上 ， 且 交 x 軸 於\n         1       1\n    點 A(- ,0), B( ,0) 。將  平移使得平移後圖形的頂點 Q 仍在直線 y  1  2 x 上，且亦通過\n         2       2\n\n         1\n                                              ＿ ＿\n                                               1 6-1          1 6-2\n    點 B ( ,0) ，此時 P 、 Q 為兩相異點，則 PQ                                   。（化為最簡根式）\n         2\n                                                       ＿\n                                                       16-3\n\n- 5 -\n\n115年學測                     請記得在答題卷簽名欄位以正楷簽全名                                       第 6 頁\n數學A考科                                                                              共 7 頁",
           "blanks": [
             {
-              "id": "16-2",
-              "answer": "5"
+              "id": "16-1",
+              "answer": "3"
+            },
+            {
+              "id": "16-3",
+              "answer": "2"
             }
           ],
           "sourceType": "official-txt"
@@ -4219,8 +4227,8 @@ window.GSAT_DATA = {
           "stem": "17. 直角 ABC 中， CAB 為直角， AB 邊上一點 D ，滿足 BCD  2ACD ，且 BC  2 BD 。\n\n       \n   若 AD  k AB ，則 k \n                       ＿    17-1\n                         。（化為最簡分數）\n                      ＿ 17-2 17-3",
           "blanks": [
             {
-              "id": "17-2",
-              "answer": "1"
+              "id": "17-1",
+              "answer": "3"
             },
             {
               "id": "17-3",
@@ -4294,7 +4302,7 @@ window.GSAT_DATA = {
               "text": "10 個                                                               3n"
             }
           ],
-          "answer": "B",
+          "answer": "D",
           "sourceType": "official-txt"
         },
         {
@@ -4384,7 +4392,7 @@ window.GSAT_DATA = {
               "text": "180 度  - 1 -  115年學測                                                                                           第 2 頁                              請記得在答題卷簽名欄位以正楷簽全名 數學B考科                                                                                            共 7 頁"
             }
           ],
-          "answer": "Q",
+          "answer": "C",
           "sourceType": "official-txt"
         },
         {
@@ -4414,7 +4422,7 @@ window.GSAT_DATA = {
               "text": "N         26                  28                  29                  27                   210"
             }
           ],
-          "answer": "P",
+          "answer": "C",
           "sourceType": "official-txt"
         },
         {
@@ -4479,7 +4487,7 @@ window.GSAT_DATA = {
         },
         {
           "id": "8",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "試選出與函數 y  3sin  x     3 在每個實數 x 所得函數值皆相同的函數。\n                   5      \n                  ",
           "choices": [
@@ -4504,12 +4512,12 @@ window.GSAT_DATA = {
               "text": "y  -3sin  x   3                    5 "
             }
           ],
-          "answer": "C",
+          "answer": "CE",
           "sourceType": "official-txt"
         },
         {
           "id": "9",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "設 f ( x)  (1 - x)(2 - x) 2 (4  x) 。試選出正確的選項。",
           "choices": [
@@ -4534,12 +4542,12 @@ window.GSAT_DATA = {
               "text": "f (2026)  f ( -2022)"
             }
           ],
-          "answer": "B",
+          "answer": "BD",
           "sourceType": "official-txt"
         },
         {
           "id": "10",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "某 研 究 探 討 昆 蟲 的 身 長 與 其 體 內 兩 種 養 分 A 、 B 濃 度 的 關 係 。 研 究 中 蒐 集 某 種 昆 蟲 ，\n    測得牠們身長與體內 A 濃度的數據如下表。\n                                          平均數               變異數            相關係數\n                          身長              65 單位       100 平方單位\n                                                                            0.75\n                         A 濃度             50 單位       225 平方單位\n\n    已知每隻昆蟲體內的 B 濃度均為 A 濃度的 0.5 倍。試選出正確的選項。\n                                15",
           "choices": [
@@ -4564,12 +4572,12 @@ window.GSAT_DATA = {
               "text": "B 濃度 (Y) 對身長 (X) 的迴歸直線斜率為                                                         2  - 3 -  115年學測                                                                   第 4 頁                      請記得在答題卷簽名欄位以正楷簽全名 數學B考科                                                                    共 7 頁"
             }
           ],
-          "answer": "A",
+          "answer": "AD",
           "sourceType": "official-txt"
         },
         {
           "id": "11",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "有一立燈為了採光，採用兩個可以替換的大、小燈罩。兩燈罩皆為直圓錐面的一部分，\n  裝在燈上其軸線位置相同、燈源皆在頂點，且大燈罩照射在地面上的光線範圍大於小燈罩\n  的光線範圍，如圖所示。令大、小燈罩在地面上所成的光線邊緣分別為圓錐曲線  、 \n  的一部分。試選出正確的選項。",
           "choices": [
@@ -4594,12 +4602,12 @@ window.GSAT_DATA = {
               "text": "如果  是雙曲線，則  是雙曲線"
             }
           ],
-          "answer": "B",
+          "answer": "BE",
           "sourceType": "official-txt"
         },
         {
           "id": "12",
-          "type": "single",
+          "type": "multi",
           "score": 5,
           "stem": "有兩容器，A 瓶內有含糖 100 公克的紅茶 1000 毫升，B 瓶內有不含糖的紅茶 500 毫升。\n  用 以 下 方 式 稀 釋 A 瓶 的 甜 度 ： 將 A 瓶 混 合 均 勻 後 ， 倒 出 500 毫 升 至 B 瓶 ， 再 將 B 瓶\n  混合均勻後，倒 500 毫升回 A 瓶，稱此為一次稀釋。重複此稀釋動作，令第 n 次稀釋\n  完，A 瓶的含糖量為 an 公克。試選出正確的選項。",
           "choices": [
@@ -4624,7 +4632,7 @@ window.GSAT_DATA = {
               "text": "第 100 次稀釋完，A 瓶的含糖量小於 60 公克  三 、 選 填 題 （ 占 25 分 ） 說明：第 13 題至第 17 題，每題 5 分。"
             }
           ],
-          "answer": "A",
+          "answer": "ACD",
           "sourceType": "official-txt"
         }
       ],
@@ -4682,6 +4690,31 @@ window.GSAT_DATA = {
             {
               "id": "15-2",
               "answer": "3"
+            },
+            {
+              "id": "15-4",
+              "answer": "1"
+            },
+            {
+              "id": "15-5",
+              "answer": "2"
+            }
+          ],
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "math-b-16",
+          "type": "fill",
+          "score": 5,
+          "stem": "16. 坐標平面上， L 為一次函數 y  f ( x) 的圖形，  為二次函數 y  g ( x) 的圖形。已知 L 與  交於\n\n                                                                ＿\n                                                                16-1\n    (1,0) 、 (5, 4) 兩點，且點 (2, 2) 在  上。則 g ( x) - f ( x) 的最大值為          。（化為最簡分數）\n\n                                                                ＿\n                                                                16-2\n\n- 5 -\n\n115年學測                                                                         第 6 頁\n                        請記得在答題卷簽名欄位以正楷簽全名\n數學B考科                                                                          共 7 頁",
+          "blanks": [
+            {
+              "id": "16-1",
+              "answer": "4"
+            },
+            {
+              "id": "16-2",
+              "answer": "3"
             }
           ],
           "sourceType": "official-txt"
@@ -4692,6 +4725,10 @@ window.GSAT_DATA = {
           "score": 5,
           "stem": "17. 利用單點透視法將坐標空間的點繪製在畫布的坐標平面上。已知\n    （一）空間中與 y 軸平行的直線，在畫布上的消失點為 (0,15)\n  （二）空間中與 z 軸平行的直線，在畫布上都與 y 軸平行\n                                                    13\n  若點 (0,0,0) 、 (3, 4,0) 、 (3,0,3) 繪在畫布上分別為 (0,0) 、 ( , 2) 、 (3,3) ，則點 (3, 4,3)\n                                                     5\n                                                                        z\n\n                        ＿\n                         17-1 17-2\n                                                              (3,0,3)\n                                                                        (3,4,3)\n  繪在畫布上的 y 坐標為                       。（化為最簡分數）\n                                                                                              y\n                         ＿ 17-3\n                                                                 x          (3,4,0)\n  （註：右圖為三點 (3, 4,0) 、 (3,0,3) 、 (3, 4,3) 於坐標空間的位置關係）",
           "blanks": [
+            {
+              "id": "17-1",
+              "answer": "2"
+            },
             {
               "id": "17-3",
               "answer": "5"
@@ -4730,7 +4767,1451 @@ window.GSAT_DATA = {
           "sourceType": "official-txt"
         }
       ],
-      "fullScore": 23
+      "fullScore": 28
+    },
+    {
+      "id": "english",
+      "name": "英文",
+      "note": "收錄可自動批改的客觀題 1-46；47-50 為混合或非選題未納入。",
+      "questions": [
+        {
+          "id": "1",
+          "type": "single",
+          "score": 1,
+          "stem": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "hasty"
+            },
+            {
+              "key": "B",
+              "text": "tight"
+            },
+            {
+              "key": "C",
+              "text": "diligent"
+            },
+            {
+              "key": "D",
+              "text": "routine"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "2",
+          "type": "single",
+          "score": 1,
+          "stem": "Jane started as an ______ art designer, but now she has a professional studio of her own.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "official"
+            },
+            {
+              "key": "B",
+              "text": "instant"
+            },
+            {
+              "key": "C",
+              "text": "amateur"
+            },
+            {
+              "key": "D",
+              "text": "elementary"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "3",
+          "type": "single",
+          "score": 1,
+          "stem": "The teaching ______ at the famous high school soon attracted more than a dozen well-qualified\n    applicants.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "career"
+            },
+            {
+              "key": "B",
+              "text": "vacancy"
+            },
+            {
+              "key": "C",
+              "text": "expectation"
+            },
+            {
+              "key": "D",
+              "text": "inspiration"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "4",
+          "type": "single",
+          "score": 1,
+          "stem": "Designed by a young engineer, the new product has created far more profit than ______ expected.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "initially"
+            },
+            {
+              "key": "B",
+              "text": "genuinely"
+            },
+            {
+              "key": "C",
+              "text": "alternatively"
+            },
+            {
+              "key": "D",
+              "text": "fundamentally"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "5",
+          "type": "single",
+          "score": 1,
+          "stem": "It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "dimension"
+            },
+            {
+              "key": "B",
+              "text": "integration"
+            },
+            {
+              "key": "C",
+              "text": "provision"
+            },
+            {
+              "key": "D",
+              "text": "consumption"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "6",
+          "type": "single",
+          "score": 1,
+          "stem": "As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before\n    large audiences.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "dreads"
+            },
+            {
+              "key": "B",
+              "text": "stresses"
+            },
+            {
+              "key": "C",
+              "text": "wanders"
+            },
+            {
+              "key": "D",
+              "text": "escapes"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "7",
+          "type": "single",
+          "score": 1,
+          "stem": "To the newly-crowned winner of the piano competition, music is his life’s ______, which he has\n    devoted himself to whole-heartedly.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "resource"
+            },
+            {
+              "key": "B",
+              "text": "impact"
+            },
+            {
+              "key": "C",
+              "text": "passion"
+            },
+            {
+              "key": "D",
+              "text": "emphasis"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "8",
+          "type": "single",
+          "score": 1,
+          "stem": "The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested\n    by the police.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "shattered"
+            },
+            {
+              "key": "B",
+              "text": "assaulted"
+            },
+            {
+              "key": "C",
+              "text": "overturned"
+            },
+            {
+              "key": "D",
+              "text": "condemned"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "9",
+          "type": "single",
+          "score": 1,
+          "stem": "There were so many people at the bus station that I had to ______ my way through the crowd to board\n    the bus in time.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "crash"
+            },
+            {
+              "key": "B",
+              "text": "tumble"
+            },
+            {
+              "key": "C",
+              "text": "elbow"
+            },
+            {
+              "key": "D",
+              "text": "struggle"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "10",
+          "type": "single",
+          "score": 1,
+          "stem": "Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic\n    incidents from happening again.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "swift"
+            },
+            {
+              "key": "B",
+              "text": "brutal"
+            },
+            {
+              "key": "C",
+              "text": "harsh"
+            },
+            {
+              "key": "D",
+              "text": "grave"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "11",
+          "type": "single",
+          "score": 1,
+          "stem": "第 11 至 15 題為題組\n     From the campfire to the café, people have always gathered together to share the latest news. White\nrhinoceroses, 11 , do the same thing-only their choice of meeting place is a giant pile of poop.\n     A new study indicates that rhinos have a smelly way to        12 . Scientists studying white rhinos in\nSouth Africa have found that these animals leave messages in their poop. In particular, they leave their\npoop in the same place for all the other members in the group to smell-just like humans leaving\nmessages on social media. Furthermore, different rhinos leave different chemicals in their poop, which\nprovide important      13     about the age, sex, general health, and reproductive conditions of each\nspecific rhino. This is of great significance for the peace and harmony in the group. When all members in\na group know what’s going on with each other, it is 14         that they will fight.\n      The researchers have even made “fake poop” to see how different rhinos would react. They find that\ndominant males are particularly      15    the “fake poop” that carries chemicals from females ready to\nmate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign\nthat they are gathering information about mating opportunities from the poop.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "what is more"
+            },
+            {
+              "key": "B",
+              "text": "it turns out"
+            },
+            {
+              "key": "C",
+              "text": "in other words"
+            },
+            {
+              "key": "D",
+              "text": "all in all"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "12",
+          "type": "single",
+          "score": 1,
+          "stem": "第 11 至 15 題為題組\n     From the campfire to the café, people have always gathered together to share the latest news. White\nrhinoceroses, 11 , do the same thing-only their choice of meeting place is a giant pile of poop.\n     A new study indicates that rhinos have a smelly way to        12 . Scientists studying white rhinos in\nSouth Africa have found that these animals leave messages in their poop. In particular, they leave their\npoop in the same place for all the other members in the group to smell-just like humans leaving\nmessages on social media. Furthermore, different rhinos leave different chemicals in their poop, which\nprovide important      13     about the age, sex, general health, and reproductive conditions of each\nspecific rhino. This is of great significance for the peace and harmony in the group. When all members in\na group know what’s going on with each other, it is 14         that they will fight.\n      The researchers have even made “fake poop” to see how different rhinos would react. They find that\ndominant males are particularly      15    the “fake poop” that carries chemicals from females ready to\nmate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign\nthat they are gathering information about mating opportunities from the poop.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "demonstrate"
+            },
+            {
+              "key": "B",
+              "text": "immigrate"
+            },
+            {
+              "key": "C",
+              "text": "communicate"
+            },
+            {
+              "key": "D",
+              "text": "manipulate"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "13",
+          "type": "single",
+          "score": 1,
+          "stem": "第 11 至 15 題為題組\n     From the campfire to the café, people have always gathered together to share the latest news. White\nrhinoceroses, 11 , do the same thing-only their choice of meeting place is a giant pile of poop.\n     A new study indicates that rhinos have a smelly way to        12 . Scientists studying white rhinos in\nSouth Africa have found that these animals leave messages in their poop. In particular, they leave their\npoop in the same place for all the other members in the group to smell-just like humans leaving\nmessages on social media. Furthermore, different rhinos leave different chemicals in their poop, which\nprovide important      13     about the age, sex, general health, and reproductive conditions of each\nspecific rhino. This is of great significance for the peace and harmony in the group. When all members in\na group know what’s going on with each other, it is 14         that they will fight.\n      The researchers have even made “fake poop” to see how different rhinos would react. They find that\ndominant males are particularly      15    the “fake poop” that carries chemicals from females ready to\nmate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign\nthat they are gathering information about mating opportunities from the poop.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "doubts"
+            },
+            {
+              "key": "B",
+              "text": "icons"
+            },
+            {
+              "key": "C",
+              "text": "matches"
+            },
+            {
+              "key": "D",
+              "text": "clues"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "14",
+          "type": "single",
+          "score": 1,
+          "stem": "第 11 至 15 題為題組\n     From the campfire to the café, people have always gathered together to share the latest news. White\nrhinoceroses, 11 , do the same thing-only their choice of meeting place is a giant pile of poop.\n     A new study indicates that rhinos have a smelly way to        12 . Scientists studying white rhinos in\nSouth Africa have found that these animals leave messages in their poop. In particular, they leave their\npoop in the same place for all the other members in the group to smell-just like humans leaving\nmessages on social media. Furthermore, different rhinos leave different chemicals in their poop, which\nprovide important      13     about the age, sex, general health, and reproductive conditions of each\nspecific rhino. This is of great significance for the peace and harmony in the group. When all members in\na group know what’s going on with each other, it is 14         that they will fight.\n      The researchers have even made “fake poop” to see how different rhinos would react. They find that\ndominant males are particularly      15    the “fake poop” that carries chemicals from females ready to\nmate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign\nthat they are gathering information about mating opportunities from the poop.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "hardly surprising"
+            },
+            {
+              "key": "B",
+              "text": "more acceptable"
+            },
+            {
+              "key": "C",
+              "text": "truly important"
+            },
+            {
+              "key": "D",
+              "text": "less likely"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "15",
+          "type": "single",
+          "score": 1,
+          "stem": "第 11 至 15 題為題組\n     From the campfire to the café, people have always gathered together to share the latest news. White\nrhinoceroses, 11 , do the same thing-only their choice of meeting place is a giant pile of poop.\n     A new study indicates that rhinos have a smelly way to        12 . Scientists studying white rhinos in\nSouth Africa have found that these animals leave messages in their poop. In particular, they leave their\npoop in the same place for all the other members in the group to smell-just like humans leaving\nmessages on social media. Furthermore, different rhinos leave different chemicals in their poop, which\nprovide important      13     about the age, sex, general health, and reproductive conditions of each\nspecific rhino. This is of great significance for the peace and harmony in the group. When all members in\na group know what’s going on with each other, it is 14         that they will fight.\n      The researchers have even made “fake poop” to see how different rhinos would react. They find that\ndominant males are particularly      15    the “fake poop” that carries chemicals from females ready to\nmate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign\nthat they are gathering information about mating opportunities from the poop.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "responsive to"
+            },
+            {
+              "key": "B",
+              "text": "annoyed at"
+            },
+            {
+              "key": "C",
+              "text": "considerate of"
+            },
+            {
+              "key": "D",
+              "text": "tolerant with"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "16",
+          "type": "single",
+          "score": 1,
+          "stem": "第 16 至 20 題為題組\n     The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade\nroutes connecting the East and the West. Those who traveled along the routes through China needed\nplaces to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help\nthem regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea\nwith food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners\ntherefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese\ndelicacies was born.\n     Dim sum is more than just an example of Chinese cuisine. It is                    18    an enjoyable dining\nexperience that can span hours. The small portions were designed to merely “touch the heart,” as the\nname literally means, and 19 were first enjoyed as snacks. The small size allows the customer to\norder a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big\ngroups to enjoy simple dishes together as             20 . Ultimately, dim sum-the food-is only a small part\nof the dim sum experience.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "accommodate"
+            },
+            {
+              "key": "B",
+              "text": "compensate"
+            },
+            {
+              "key": "C",
+              "text": "anticipate"
+            },
+            {
+              "key": "D",
+              "text": "reinforce"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "17",
+          "type": "single",
+          "score": 1,
+          "stem": "第 16 至 20 題為題組\n     The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade\nroutes connecting the East and the West. Those who traveled along the routes through China needed\nplaces to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help\nthem regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea\nwith food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners\ntherefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese\ndelicacies was born.\n     Dim sum is more than just an example of Chinese cuisine. It is                    18    an enjoyable dining\nexperience that can span hours. The small portions were designed to merely “touch the heart,” as the\nname literally means, and 19 were first enjoyed as snacks. The small size allows the customer to\norder a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big\ngroups to enjoy simple dishes together as             20 . Ultimately, dim sum-the food-is only a small part\nof the dim sum experience.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "would hardly develop"
+            },
+            {
+              "key": "B",
+              "text": "had yet to develop"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "18",
+          "type": "single",
+          "score": 1,
+          "stem": "第 16 至 20 題為題組\n     The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade\nroutes connecting the East and the West. Those who traveled along the routes through China needed\nplaces to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help\nthem regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea\nwith food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners\ntherefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese\ndelicacies was born.\n     Dim sum is more than just an example of Chinese cuisine. It is                    18    an enjoyable dining\nexperience that can span hours. The small portions were designed to merely “touch the heart,” as the\nname literally means, and 19 were first enjoyed as snacks. The small size allows the customer to\norder a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big\ngroups to enjoy simple dishes together as             20 . Ultimately, dim sum-the food-is only a small part\nof the dim sum experience.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "passed on to"
+            },
+            {
+              "key": "B",
+              "text": "brought up as"
+            },
+            {
+              "key": "C",
+              "text": "thought to have"
+            },
+            {
+              "key": "D",
+              "text": "meant to be"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "19",
+          "type": "single",
+          "score": 1,
+          "stem": "第 16 至 20 題為題組\n     The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade\nroutes connecting the East and the West. Those who traveled along the routes through China needed\nplaces to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help\nthem regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea\nwith food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners\ntherefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese\ndelicacies was born.\n     Dim sum is more than just an example of Chinese cuisine. It is                    18    an enjoyable dining\nexperience that can span hours. The small portions were designed to merely “touch the heart,” as the\nname literally means, and 19 were first enjoyed as snacks. The small size allows the customer to\norder a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big\ngroups to enjoy simple dishes together as             20 . Ultimately, dim sum-the food-is only a small part\nof the dim sum experience.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "if so"
+            },
+            {
+              "key": "B",
+              "text": "as such"
+            },
+            {
+              "key": "C",
+              "text": "by then"
+            },
+            {
+              "key": "D",
+              "text": "in that"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "20",
+          "type": "single",
+          "score": 1,
+          "stem": "第 16 至 20 題為題組\n     The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade\nroutes connecting the East and the West. Those who traveled along the routes through China needed\nplaces to rest. Teahouses thus sprang up to 16 the weary travelers, offering them a cup of tea to help\nthem regain energy. But the culinary art of dim sum 17 , for it was considered inappropriate to pair tea\nwith food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners\ntherefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese\ndelicacies was born.\n     Dim sum is more than just an example of Chinese cuisine. It is                    18    an enjoyable dining\nexperience that can span hours. The small portions were designed to merely “touch the heart,” as the\nname literally means, and 19 were first enjoyed as snacks. The small size allows the customer to\norder a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big\ngroups to enjoy simple dishes together as             20 . Ultimately, dim sum-the food-is only a small part\nof the dim sum experience.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "a widely known delicacy"
+            },
+            {
+              "key": "B",
+              "text": "an intimate romantic dinner"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "21",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "E",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "22",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "G",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "23",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "F",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "24",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "25",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "26",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "J",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "27",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "28",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "I",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "29",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "H",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "30",
+          "type": "single",
+          "score": 1,
+          "stem": "第 21 至 30 題為題組\n\n        Are you feeling a little guilty about your daily mid-afternoon snooze? Well, you don’t need to.\nTaking a nap in the middle of the day is by no means        21   . In fact, you are giving your brain and your\nbody some time to recharge and turn up refreshed.\n\n        Research has shown that napping is linked with brain size and       22 ; specifically, it can boost our\ncognition and memory. In our early 20s, our brain starts shrinking, which gradually slows cognition and\nincreases dementia       23    in later life. The brain size of habitual nappers, however, is found to be better\npreserved. This suggests that napping may significantly          24     age-related brain shrinkage, and thus\nlower the possibility of developing dementia. Neurologists also confirm that naps can enhance memory\nand learning. For students cramming for college exams, napping will help              25    acquired knowledge\nand learned skills.\n\n        Understanding how to perfect your nap is vital for reaping its benefits. To begin with, you need\nto find out the ideal length of a nap. Some studies recommend napping for 20 to 40 minutes, while others\n  26       shorter naps, such as 15 to 20 minutes. The best nap length, however, may            27     a person’s\nphysical condition and fatigue level. For some people, even a five-minute nap can bring about surprisingly\n  28       benefits.\n\n        Furthermore, the environment where naps are taken also plays an important role. A dark space with\nlittle distraction is ideal for napping. So, find yourself a quiet place with        29    light or with blackout\ncurtains. If you can’t find a dark room, consider wearing a sleep mask. You can also add some soothing\nnature sounds to create a relaxing      30   , which can make your naps more effective.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "retain"
+            },
+            {
+              "key": "B",
+              "text": "depend on"
+            },
+            {
+              "key": "C",
+              "text": "atmosphere"
+            },
+            {
+              "key": "D",
+              "text": "delay"
+            },
+            {
+              "key": "E",
+              "text": "unproductive"
+            },
+            {
+              "key": "F",
+              "text": "risk"
+            },
+            {
+              "key": "G",
+              "text": "function"
+            },
+            {
+              "key": "H",
+              "text": "minimal"
+            },
+            {
+              "key": "I",
+              "text": "dramatic"
+            },
+            {
+              "key": "J",
+              "text": "point to 115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 英文考科 共 11 頁"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "31",
+          "type": "single",
+          "score": 2,
+          "stem": "第 31 至 34 題為題組\n     Smiling is a gesture that many people engage in dozens of times a day without thought. Most people\nbelieve that smiling is an expression of good feelings, a simple way to show happiness and friendliness.\nBut does this hold true across time and cultures?\n       31     In the West, for example, portraits of men and women before the 1700s typically depicted\nthem with a serious, unsmiling expression. The absence of smiles stemmed partly from the attempt to\nhide their decayed teeth caused by poor dental hygiene. More importantly, smiling and laughter had long\nbeen perceived in the society as manifestations of a lack of self-control and good manners. Paintings with\nwhite-toothed smiles emerged after the 1700s, with the gradual rise of a culture that valued perception\nand responsiveness.\n     Recent studies also show that interpretations of smiling may vary from culture to culture. While in\nmost cultures smiling is associated with positive emotions, in certain cultures the same person can be\njudged as less intelligent when smiling.     32\n     The amount people smile is culturally influenced as well. People smile more when they are from\ncountries that are high in individualism and low in population. These are often places where the needs and\nrights of the individual take precedence over those of the group.     33     Newcomers from different parts\nof the world are found to smile more. Without a shared language, they often resort to smiling to get along\nwith others. For them, smiling is a straightforward way to indicate that one is reliable and trustworthy.\n       34     As many psychologists now point out, this simple gesture is in fact far more complicated\nthan it may appear.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Another crucial factor is a society’s immigration diversity."
+            },
+            {
+              "key": "B",
+              "text": "Various factors have thus contributed to the phenomenon of smiling."
+            },
+            {
+              "key": "C",
+              "text": "For most of recorded human history, the open smile has been deeply unfashionable."
+            },
+            {
+              "key": "D",
+              "text": "A genuine smile indicates contentment, while a forced smile suggests underlying distress."
+            },
+            {
+              "key": "E",
+              "text": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "32",
+          "type": "single",
+          "score": 2,
+          "stem": "第 31 至 34 題為題組\n     Smiling is a gesture that many people engage in dozens of times a day without thought. Most people\nbelieve that smiling is an expression of good feelings, a simple way to show happiness and friendliness.\nBut does this hold true across time and cultures?\n       31     In the West, for example, portraits of men and women before the 1700s typically depicted\nthem with a serious, unsmiling expression. The absence of smiles stemmed partly from the attempt to\nhide their decayed teeth caused by poor dental hygiene. More importantly, smiling and laughter had long\nbeen perceived in the society as manifestations of a lack of self-control and good manners. Paintings with\nwhite-toothed smiles emerged after the 1700s, with the gradual rise of a culture that valued perception\nand responsiveness.\n     Recent studies also show that interpretations of smiling may vary from culture to culture. While in\nmost cultures smiling is associated with positive emotions, in certain cultures the same person can be\njudged as less intelligent when smiling.     32\n     The amount people smile is culturally influenced as well. People smile more when they are from\ncountries that are high in individualism and low in population. These are often places where the needs and\nrights of the individual take precedence over those of the group.     33     Newcomers from different parts\nof the world are found to smile more. Without a shared language, they often resort to smiling to get along\nwith others. For them, smiling is a straightforward way to indicate that one is reliable and trustworthy.\n       34     As many psychologists now point out, this simple gesture is in fact far more complicated\nthan it may appear.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Another crucial factor is a society’s immigration diversity."
+            },
+            {
+              "key": "B",
+              "text": "Various factors have thus contributed to the phenomenon of smiling."
+            },
+            {
+              "key": "C",
+              "text": "For most of recorded human history, the open smile has been deeply unfashionable."
+            },
+            {
+              "key": "D",
+              "text": "A genuine smile indicates contentment, while a forced smile suggests underlying distress."
+            },
+            {
+              "key": "E",
+              "text": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
+            }
+          ],
+          "answer": "E",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "33",
+          "type": "single",
+          "score": 2,
+          "stem": "第 31 至 34 題為題組\n     Smiling is a gesture that many people engage in dozens of times a day without thought. Most people\nbelieve that smiling is an expression of good feelings, a simple way to show happiness and friendliness.\nBut does this hold true across time and cultures?\n       31     In the West, for example, portraits of men and women before the 1700s typically depicted\nthem with a serious, unsmiling expression. The absence of smiles stemmed partly from the attempt to\nhide their decayed teeth caused by poor dental hygiene. More importantly, smiling and laughter had long\nbeen perceived in the society as manifestations of a lack of self-control and good manners. Paintings with\nwhite-toothed smiles emerged after the 1700s, with the gradual rise of a culture that valued perception\nand responsiveness.\n     Recent studies also show that interpretations of smiling may vary from culture to culture. While in\nmost cultures smiling is associated with positive emotions, in certain cultures the same person can be\njudged as less intelligent when smiling.     32\n     The amount people smile is culturally influenced as well. People smile more when they are from\ncountries that are high in individualism and low in population. These are often places where the needs and\nrights of the individual take precedence over those of the group.     33     Newcomers from different parts\nof the world are found to smile more. Without a shared language, they often resort to smiling to get along\nwith others. For them, smiling is a straightforward way to indicate that one is reliable and trustworthy.\n       34     As many psychologists now point out, this simple gesture is in fact far more complicated\nthan it may appear.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Another crucial factor is a society’s immigration diversity."
+            },
+            {
+              "key": "B",
+              "text": "Various factors have thus contributed to the phenomenon of smiling."
+            },
+            {
+              "key": "C",
+              "text": "For most of recorded human history, the open smile has been deeply unfashionable."
+            },
+            {
+              "key": "D",
+              "text": "A genuine smile indicates contentment, while a forced smile suggests underlying distress."
+            },
+            {
+              "key": "E",
+              "text": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "34",
+          "type": "single",
+          "score": 2,
+          "stem": "第 31 至 34 題為題組\n     Smiling is a gesture that many people engage in dozens of times a day without thought. Most people\nbelieve that smiling is an expression of good feelings, a simple way to show happiness and friendliness.\nBut does this hold true across time and cultures?\n       31     In the West, for example, portraits of men and women before the 1700s typically depicted\nthem with a serious, unsmiling expression. The absence of smiles stemmed partly from the attempt to\nhide their decayed teeth caused by poor dental hygiene. More importantly, smiling and laughter had long\nbeen perceived in the society as manifestations of a lack of self-control and good manners. Paintings with\nwhite-toothed smiles emerged after the 1700s, with the gradual rise of a culture that valued perception\nand responsiveness.\n     Recent studies also show that interpretations of smiling may vary from culture to culture. While in\nmost cultures smiling is associated with positive emotions, in certain cultures the same person can be\njudged as less intelligent when smiling.     32\n     The amount people smile is culturally influenced as well. People smile more when they are from\ncountries that are high in individualism and low in population. These are often places where the needs and\nrights of the individual take precedence over those of the group.     33     Newcomers from different parts\nof the world are found to smile more. Without a shared language, they often resort to smiling to get along\nwith others. For them, smiling is a straightforward way to indicate that one is reliable and trustworthy.\n       34     As many psychologists now point out, this simple gesture is in fact far more complicated\nthan it may appear.",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Another crucial factor is a society’s immigration diversity."
+            },
+            {
+              "key": "B",
+              "text": "Various factors have thus contributed to the phenomenon of smiling."
+            },
+            {
+              "key": "C",
+              "text": "For most of recorded human history, the open smile has been deeply unfashionable."
+            },
+            {
+              "key": "D",
+              "text": "A genuine smile indicates contentment, while a forced smile suggests underlying distress."
+            },
+            {
+              "key": "E",
+              "text": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "35",
+          "type": "single",
+          "score": 2,
+          "stem": "第 35 至 38 題為題組\n        In March 2022, the Endurance-the lost vessel of the famed polar explorer Ernest Shackleton-was\nfound in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the\nincredible achievement of the search team, but because the discovery marked the final chapter in a\nlegendary story of extraordinary courage and perseverance.\n        On August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance\ntoward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the\nteam arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last\nsettlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving\nSouth Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in\npack ice.\n        The worthy vessel held up for nine months, drifting down south slowly and then pushed northward\nby the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and\nexacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship,\npitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath\nthe Weddell Sea.\n        The next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins,\nseals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they\nsailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn’t survive long\nthere. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles\nover 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours\nacross the island to reach a whaling station.\n        Help was almost at hand, but ice and bad weather hindered their return. On August 30, 1916,\nShackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All\nthe members of the expedition team survived, but the Endurance remained lost under the sea until its\ndiscovery in 2022.\n\nWhat is this passage mainly about?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "A renowned Antarctic explorer."
+            },
+            {
+              "key": "B",
+              "text": "The extreme weather in Antarctica."
+            },
+            {
+              "key": "C",
+              "text": "A challenging voyage to Antarctica."
+            },
+            {
+              "key": "D",
+              "text": "The amazing discovery of a sunken ship."
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "36",
+          "type": "single",
+          "score": 2,
+          "stem": "第 35 至 38 題為題組\n        In March 2022, the Endurance-the lost vessel of the famed polar explorer Ernest Shackleton-was\nfound in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the\nincredible achievement of the search team, but because the discovery marked the final chapter in a\nlegendary story of extraordinary courage and perseverance.\n        On August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance\ntoward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the\nteam arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last\nsettlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving\nSouth Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in\npack ice.\n        The worthy vessel held up for nine months, drifting down south slowly and then pushed northward\nby the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and\nexacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship,\npitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath\nthe Weddell Sea.\n        The next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins,\nseals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they\nsailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn’t survive long\nthere. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles\nover 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours\nacross the island to reach a whaling station.\n        Help was almost at hand, but ice and bad weather hindered their return. On August 30, 1916,\nShackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All\nthe members of the expedition team survived, but the Endurance remained lost under the sea until its\ndiscovery in 2022.\n\nWhich of the following idioms is closest in meaning to “exacerbated the situation” in the third\n    paragraph?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Broke the ice."
+            },
+            {
+              "key": "B",
+              "text": "Cost an arm and a leg."
+            },
+            {
+              "key": "C",
+              "text": "Missed the boat."
+            },
+            {
+              "key": "D",
+              "text": "Added fuel to the fire.  115年學測                        請記得在答題卷簽名欄位以正楷簽全名                                               第 6 頁 英文考科                                                                                          共 11 頁"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "37",
+          "type": "single",
+          "score": 2,
+          "stem": "第 35 至 38 題為題組\n        In March 2022, the Endurance-the lost vessel of the famed polar explorer Ernest Shackleton-was\nfound in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the\nincredible achievement of the search team, but because the discovery marked the final chapter in a\nlegendary story of extraordinary courage and perseverance.\n        On August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance\ntoward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the\nteam arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last\nsettlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving\nSouth Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in\npack ice.\n        The worthy vessel held up for nine months, drifting down south slowly and then pushed northward\nby the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and\nexacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship,\npitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath\nthe Weddell Sea.\n        The next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins,\nseals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they\nsailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn’t survive long\nthere. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles\nover 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours\nacross the island to reach a whaling station.\n        Help was almost at hand, but ice and bad weather hindered their return. On August 30, 1916,\nShackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All\nthe members of the expedition team survived, but the Endurance remained lost under the sea until its\ndiscovery in 2022.\n\nAccording to the passage, which of the following is true about Shackleton and his Antarctic\n    expedition?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "His journey lasted more than two years."
+            },
+            {
+              "key": "B",
+              "text": "He was the first man to cross over the Antarctic."
+            },
+            {
+              "key": "C",
+              "text": "His team camped out on Elephant Island for five months."
+            },
+            {
+              "key": "D",
+              "text": "He sent five crew members on a lifeboat to get help from a whaling station."
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "38",
+          "type": "single",
+          "score": 2,
+          "stem": "第 35 至 38 題為題組\n        In March 2022, the Endurance-the lost vessel of the famed polar explorer Ernest Shackleton-was\nfound in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the\nincredible achievement of the search team, but because the discovery marked the final chapter in a\nlegendary story of extraordinary courage and perseverance.\n        On August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance\ntoward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the\nteam arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last\nsettlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving\nSouth Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in\npack ice.\n        The worthy vessel held up for nine months, drifting down south slowly and then pushed northward\nby the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and\nexacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship,\npitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath\nthe Weddell Sea.\n        The next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins,\nseals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they\nsailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn’t survive long\nthere. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles\nover 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours\nacross the island to reach a whaling station.\n        Help was almost at hand, but ice and bad weather hindered their return. On August 30, 1916,\nShackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All\nthe members of the expedition team survived, but the Endurance remained lost under the sea until its\ndiscovery in 2022.\n\nWhich of the following shows the correct route of the Endurance after leaving South Georgia?",
+          "choices": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": "South Georgia                                   South Georgia             Elephant Island                                    Elephant Island                                  WEDDELL                                          WEDDELL             PACIFIC               SEA                             PACIFIC             OCEAN                            ATLANTIC                              SEA      ATLANTIC                                                                   OCEAN                                               OCEAN                                          OCEAN                                      ANTARCTICA                                        ANTARCTICA"
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "South Georgia                                   South Georgia             Elephant Island                                    Elephant Island                                 WEDDELL                                           WEDDELL             PACIFIC              SEA                              PACIFIC             OCEAN                                                                  SEA                                              ATLANTIC             OCEAN                     ATLANTIC                                               OCEAN                                          OCEAN                                      ANTARCTICA                                        ANTARCTICA"
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "39",
+          "type": "single",
+          "score": 2,
+          "stem": "第 39 至 42 題為題組\n     In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a\ncaptivating focal point as it winds up the building. This prominent structure actually has a long and rich\nheritage.\n      In the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting\nthat they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at\nTrajan’s Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone\nand marble. Around this time, spiral staircases began to find much wider use in Roman architecture and\nacross Europe.\n      Throughout the Middle Ages, winding staircases became a well-established feature of European\ncastles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases\nwere quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass\nattack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have\ntheir right hand tight against the narrowest part of the staircases, close to the central pole, and as a result\nwere unable to use their sword effectively. The attackers’ challenge was further complicated by the\nuneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in\nthe castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers\nwere much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\n      Being associated with medieval castles and kings, spiral staircases gradually won popularity in\nEuropean architecture, with new materials emerging to cope with customers’ needs. In Victorian times,\ncast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the\n20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market.\nThen, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases\ncome in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of\ntheir classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public\nbuildings nowadays.\n\nWhich question can the passage answer?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Where was the first spiral staircase constructed?"
+            },
+            {
+              "key": "B",
+              "text": "Who was the first designer of the spiral staircase?"
+            },
+            {
+              "key": "C",
+              "text": "What is the world’s most famous spiral staircase?"
+            },
+            {
+              "key": "D",
+              "text": "Why is the spiral staircase popular in modern times?"
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "40",
+          "type": "single",
+          "score": 2,
+          "stem": "第 39 至 42 題為題組\n     In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a\ncaptivating focal point as it winds up the building. This prominent structure actually has a long and rich\nheritage.\n      In the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting\nthat they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at\nTrajan’s Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone\nand marble. Around this time, spiral staircases began to find much wider use in Roman architecture and\nacross Europe.\n      Throughout the Middle Ages, winding staircases became a well-established feature of European\ncastles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases\nwere quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass\nattack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have\ntheir right hand tight against the narrowest part of the staircases, close to the central pole, and as a result\nwere unable to use their sword effectively. The attackers’ challenge was further complicated by the\nuneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in\nthe castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers\nwere much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\n      Being associated with medieval castles and kings, spiral staircases gradually won popularity in\nEuropean architecture, with new materials emerging to cope with customers’ needs. In Victorian times,\ncast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the\n20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market.\nThen, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases\ncome in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of\ntheir classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public\nbuildings nowadays.\n\nWhat does “them” in the third paragraph refer to?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Stairs."
+            },
+            {
+              "key": "B",
+              "text": "Confines."
+            },
+            {
+              "key": "C",
+              "text": "Attackers."
+            },
+            {
+              "key": "D",
+              "text": "Defenders."
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "41",
+          "type": "single",
+          "score": 2,
+          "stem": "第 39 至 42 題為題組\n     In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a\ncaptivating focal point as it winds up the building. This prominent structure actually has a long and rich\nheritage.\n      In the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting\nthat they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at\nTrajan’s Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone\nand marble. Around this time, spiral staircases began to find much wider use in Roman architecture and\nacross Europe.\n      Throughout the Middle Ages, winding staircases became a well-established feature of European\ncastles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases\nwere quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass\nattack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have\ntheir right hand tight against the narrowest part of the staircases, close to the central pole, and as a result\nwere unable to use their sword effectively. The attackers’ challenge was further complicated by the\nuneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in\nthe castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers\nwere much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\n      Being associated with medieval castles and kings, spiral staircases gradually won popularity in\nEuropean architecture, with new materials emerging to cope with customers’ needs. In Victorian times,\ncast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the\n20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market.\nThen, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases\ncome in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of\ntheir classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public\nbuildings nowadays.\n\nAccording to the passage, which is a correct time sequence of the materials used in making spiral\n     staircases?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "stone  iron  steel  glass"
+            },
+            {
+              "key": "B",
+              "text": "stone  wood iron  steel"
+            },
+            {
+              "key": "C",
+              "text": "iron  marble  wood  glass"
+            },
+            {
+              "key": "D",
+              "text": "marble  wood  stone  concrete"
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "42",
+          "type": "single",
+          "score": 2,
+          "stem": "第 39 至 42 題為題組\n     In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a\ncaptivating focal point as it winds up the building. This prominent structure actually has a long and rich\nheritage.\n      In the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting\nthat they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at\nTrajan’s Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone\nand marble. Around this time, spiral staircases began to find much wider use in Roman architecture and\nacross Europe.\n      Throughout the Middle Ages, winding staircases became a well-established feature of European\ncastles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases\nwere quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass\nattack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have\ntheir right hand tight against the narrowest part of the staircases, close to the central pole, and as a result\nwere unable to use their sword effectively. The attackers’ challenge was further complicated by the\nuneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in\nthe castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers\nwere much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\n      Being associated with medieval castles and kings, spiral staircases gradually won popularity in\nEuropean architecture, with new materials emerging to cope with customers’ needs. In Victorian times,\ncast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the\n20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market.\nThen, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases\ncome in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of\ntheir classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public\nbuildings nowadays.\n\nWhich of the following statements can be inferred about spiral staircases in the Medieval Ages?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "The staircase was too narrow to allow any quick retreat."
+            },
+            {
+              "key": "B",
+              "text": "The clockwise design favored right-handed castle defenders."
+            },
+            {
+              "key": "C",
+              "text": "The uneven steps made it easier to ascend than descend the stairs."
+            },
+            {
+              "key": "D",
+              "text": "The staircase was dark enough for defenders to hide from attackers.  115年學測                         請記得在答題卷簽名欄位以正楷簽全名                                                第 8 頁 英文考科                                                                                            共 11 頁"
+            }
+          ],
+          "answer": "B",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "43",
+          "type": "single",
+          "score": 2,
+          "stem": "第 43 至 46 題為題組\n     Have you ever wondered why north comes at the top of a map? Well, north may seem a natural\nchoice for the top spot today, but that wasn’t always the case.\n      Documents from ancient times indicate that many maps in early ages were pointing to the east,\nwhere the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though\nthere is no physical evidence to support this, the word dakshina “south” in Indian languages also means\n“right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their\nright-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in\npre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\n     In the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps\nshowed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south.\nAs rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew\nmaps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would\nshow the followers looking up toward their holy city.\n      The preference for north arose during the European age of exploration. At the time, sailors relied on\nthe North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when\nEurope’s search for trading routes was at its peak, maps became Eurocentric, with north on top. The\nexpansion of European imperialism in the following centuries further established the “north up” practice\nas the standard.\n     Today, map orientation is taking on a new perspective. In perhaps our most common interaction\nwith maps-the use of GPS systems on our phones and in our cars, directions have ceased to be as\nimportant. The layouts are dynamic, oriented toward our travel path.\n     So, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological\nadvancements, it seems we’ve ended up right where we began in ancient times: with ourselves in the\nmiddle, and our destinations at the top.\n\nWhat is the passage mainly about?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Why east is referred to as the “Orient.”"
+            },
+            {
+              "key": "B",
+              "text": "How maps differ from GPS in function."
+            },
+            {
+              "key": "C",
+              "text": "How map orientation evolved over time."
+            },
+            {
+              "key": "D",
+              "text": "Why maps were important during the age of exploration."
+            }
+          ],
+          "answer": "C",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "44",
+          "type": "single",
+          "score": 2,
+          "stem": "第 43 至 46 題為題組\n     Have you ever wondered why north comes at the top of a map? Well, north may seem a natural\nchoice for the top spot today, but that wasn’t always the case.\n      Documents from ancient times indicate that many maps in early ages were pointing to the east,\nwhere the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though\nthere is no physical evidence to support this, the word dakshina “south” in Indian languages also means\n“right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their\nright-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in\npre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\n     In the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps\nshowed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south.\nAs rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew\nmaps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would\nshow the followers looking up toward their holy city.\n      The preference for north arose during the European age of exploration. At the time, sailors relied on\nthe North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when\nEurope’s search for trading routes was at its peak, maps became Eurocentric, with north on top. The\nexpansion of European imperialism in the following centuries further established the “north up” practice\nas the standard.\n     Today, map orientation is taking on a new perspective. In perhaps our most common interaction\nwith maps-the use of GPS systems on our phones and in our cars, directions have ceased to be as\nimportant. The layouts are dynamic, oriented toward our travel path.\n     So, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological\nadvancements, it seems we’ve ended up right where we began in ancient times: with ourselves in the\nmiddle, and our destinations at the top.\n\nWhat does “this” refer to in the second paragraph?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "The word dakshina."
+            },
+            {
+              "key": "B",
+              "text": "Physical evidence."
+            },
+            {
+              "key": "C",
+              "text": "Ancient India."
+            },
+            {
+              "key": "D",
+              "text": "East-orientation of maps."
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "45",
+          "type": "single",
+          "score": 2,
+          "stem": "第 43 至 46 題為題組\n     Have you ever wondered why north comes at the top of a map? Well, north may seem a natural\nchoice for the top spot today, but that wasn’t always the case.\n      Documents from ancient times indicate that many maps in early ages were pointing to the east,\nwhere the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though\nthere is no physical evidence to support this, the word dakshina “south” in Indian languages also means\n“right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their\nright-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in\npre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\n     In the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps\nshowed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south.\nAs rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew\nmaps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would\nshow the followers looking up toward their holy city.\n      The preference for north arose during the European age of exploration. At the time, sailors relied on\nthe North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when\nEurope’s search for trading routes was at its peak, maps became Eurocentric, with north on top. The\nexpansion of European imperialism in the following centuries further established the “north up” practice\nas the standard.\n     Today, map orientation is taking on a new perspective. In perhaps our most common interaction\nwith maps-the use of GPS systems on our phones and in our cars, directions have ceased to be as\nimportant. The layouts are dynamic, oriented toward our travel path.\n     So, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological\nadvancements, it seems we’ve ended up right where we began in ancient times: with ourselves in the\nmiddle, and our destinations at the top.\n\nWhich of the following is closest in meaning to “a blip” in the last paragraph?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "A temporary state."
+            },
+            {
+              "key": "B",
+              "text": "An urgent need."
+            },
+            {
+              "key": "C",
+              "text": "A critical decision."
+            },
+            {
+              "key": "D",
+              "text": "An advanced system."
+            }
+          ],
+          "answer": "A",
+          "sourceType": "official-txt"
+        },
+        {
+          "id": "46",
+          "type": "single",
+          "score": 2,
+          "stem": "第 43 至 46 題為題組\n     Have you ever wondered why north comes at the top of a map? Well, north may seem a natural\nchoice for the top spot today, but that wasn’t always the case.\n      Documents from ancient times indicate that many maps in early ages were pointing to the east,\nwhere the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though\nthere is no physical evidence to support this, the word dakshina “south” in Indian languages also means\n“right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their\nright-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in\npre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\n     In the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps\nshowed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south.\nAs rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew\nmaps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would\nshow the followers looking up toward their holy city.\n      The preference for north arose during the European age of exploration. At the time, sailors relied on\nthe North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when\nEurope’s search for trading routes was at its peak, maps became Eurocentric, with north on top. The\nexpansion of European imperialism in the following centuries further established the “north up” practice\nas the standard.\n     Today, map orientation is taking on a new perspective. In perhaps our most common interaction\nwith maps-the use of GPS systems on our phones and in our cars, directions have ceased to be as\nimportant. The layouts are dynamic, oriented toward our travel path.\n     So, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological\nadvancements, it seems we’ve ended up right where we began in ancient times: with ourselves in the\nmiddle, and our destinations at the top.\n\nWhich of the following statements is true?",
+          "choices": [
+            {
+              "key": "A",
+              "text": "Sailors took the North Star as their final destination."
+            },
+            {
+              "key": "B",
+              "text": "The GPS system has a fixed direction for orientation."
+            },
+            {
+              "key": "C",
+              "text": "South was placed at the top of maps in the pre-Biblical era."
+            },
+            {
+              "key": "D",
+              "text": "Old Islamic maps put south at the top for religious purposes."
+            }
+          ],
+          "answer": "D",
+          "sourceType": "official-txt"
+        }
+      ],
+      "fullScore": 62
     }
   ]
 };

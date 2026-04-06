@@ -32,7 +32,7 @@ function parseAnswerKey(file) {
   const lines = text.split('\n').map(s => s.trim()).filter(Boolean);
   const map = {};
   for (const line of lines) {
-    const matches = [...line.matchAll(/(\d+(?:-\d+)?)\s+([A-J]|[1-9][0-9]?|[A-E]{2,5}|[1-5](?:,[1-5])+|[A-J](?:,[A-J])+|／)/g)];
+    const matches = [...line.matchAll(/(\d+(?:-\d+)?)\s+(／|[A-J](?:,[A-J])+|[1-5](?:,[1-5])+|[A-J]{2,10}|[1-9][0-9]?|[A-J])/g)];
     for (const m of matches) map[m[1]] = m[2];
   }
   return map;
@@ -90,6 +90,158 @@ function parseNumericChoices(block) {
 
 function stripQuestionNumber(block, id) {
   return block.replace(new RegExp(`^${id}\\.\\s*`), '').trim();
+}
+
+function normalizeEnglishText(text) {
+  return cleanText(text)
+    .split('\n')
+    .filter(line => {
+      const trimmed = line.trim();
+      if (!trimmed) return true;
+      if (/^[-－]\s*\d+\s*[-－]$/.test(trimmed)) return false;
+      if (/^第\s*\d+\s*頁/.test(trimmed)) return false;
+      if (/^共\s*\d+\s*頁/.test(trimmed)) return false;
+      if (/^115年學測$/.test(trimmed)) return false;
+      if (/^英文考科$/.test(trimmed)) return false;
+      if (/^請記得在答題卷簽名欄位以正楷簽全名$/.test(trimmed)) return false;
+      return true;
+    })
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n');
+}
+
+function extractEnglishSharedChoices(sectionText, optionKeys) {
+  const optionSet = new Set(optionKeys);
+  const choices = [];
+  const regex = /\(([A-J])\)\s*([\s\S]*?)(?=\s*\([A-J]\)|\s*$)/g;
+  for (const match of sectionText.matchAll(regex)) {
+    const key = match[1];
+    if (!optionSet.has(key)) continue;
+    choices.push({ key, text: match[2].replace(/\s+/g, ' ').trim() });
+  }
+  return choices.filter(c => optionSet.has(c.key));
+}
+
+function parseEnglishNumberedQuestions(sectionText, questionIds, choicesById, score, sharedPassage = '') {
+  const positions = questionIds.map(id => ({ id, idx: sectionText.search(new RegExp(`(?:^|\\n)${id}\\.`)) })).filter(x => x.idx !== -1);
+  const questions = [];
+  positions.forEach((p, i) => {
+    const end = i + 1 < positions.length ? positions[i + 1].idx : sectionText.length;
+    const block = sectionText.slice(p.idx, end).trim();
+    const m = block.match(new RegExp(`^${p.id}\\.\\s*([\\s\\S]*?)((?:\\n\\s*\\([A-E]\\)[\\s\\S]*)+)$`));
+    if (!m) return;
+    const stemOnly = m[1].replace(/\s+\n/g, '\n').trim();
+    const choices = parseLetterChoices(m[2]);
+    const stem = sharedPassage ? `${sharedPassage}\n\n${stemOnly}` : stemOnly;
+    questions.push({
+      id: String(p.id),
+      type: 'single',
+      score,
+      stem,
+      choices: choicesById?.[p.id] || choices,
+      answer: choicesById?.[p.id]?.answer || null,
+      sourceType: 'official-txt'
+    });
+  });
+  return questions;
+}
+
+function parseEnglishSubject({ textFile, answerFile }) {
+  const rawText = fs.readFileSync(textFile, 'utf8');
+  const text = normalizeEnglishText(rawText);
+  const answers = parseAnswerKey(answerFile);
+  const questions = [];
+
+  // 1-10 vocabulary
+  questions.push(...parseChoiceQuestions({
+    textFile,
+    answerFile,
+    id: 'english-vocab-tmp',
+    name: 'tmp',
+    sectionStart: '1.',
+    sectionEnd: '二 、 綜 合 測 驗',
+    questionIds: Array.from({ length: 10 }, (_, i) => i + 1),
+    score: 1,
+    choiceMode: 'letter',
+    answerMode: 'letter'
+  }).questions);
+
+  // 11-20 cloze
+  const sec11to15 = extractRange(text, '第 11 至 15 題為題組', '第 16 至 20 題為題組').trim();
+  const sec16to20 = extractRange(text, '第 16 至 20 題為題組', '三 、 文 意 選 填').trim();
+  for (const section of [sec11to15, sec16to20]) {
+    const firstIdx = section.search(/(?:^|\n)\d+\./);
+    const passage = section.slice(0, firstIdx).trim();
+    const numbered = section.slice(firstIdx).trim();
+    const lineRegex = /^(\d+)\.\s*(.*)$/gm;
+    for (const match of numbered.matchAll(lineRegex)) {
+      const qid = match[1];
+      const choices = parseLetterChoices(match[2]);
+      if (!choices.length) continue;
+      questions.push({
+        id: qid,
+        type: 'single',
+        score: 1,
+        stem: passage,
+        choices,
+        answer: answers[qid],
+        sourceType: 'official-txt'
+      });
+    }
+  }
+
+  // 21-30 word bank
+  const sec21to30 = extractRange(text, '第 21 至 30 題為題組', '四 、 篇 章 結 構').trim();
+  const options21 = extractEnglishSharedChoices(sec21to30, ['A','B','C','D','E','F','G','H','I','J']);
+  const passage21 = sec21to30.slice(0, sec21to30.indexOf('(A)')).trim();
+  for (let qid = 21; qid <= 30; qid++) {
+    questions.push({
+      id: String(qid),
+      type: 'single',
+      score: 1,
+      stem: passage21,
+      choices: options21,
+      answer: answers[String(qid)],
+      sourceType: 'official-txt'
+    });
+  }
+
+  // 31-34 paragraph structure
+  const sec31to34 = extractRange(text, '第 31 至 34 題為題組', '五 、 閱 讀 測 驗').trim();
+  const options31 = extractEnglishSharedChoices(sec31to34, ['A','B','C','D','E']);
+  const passage31 = sec31to34.slice(0, sec31to34.indexOf('(A)')).trim();
+  for (let qid = 31; qid <= 34; qid++) {
+    questions.push({
+      id: String(qid),
+      type: 'single',
+      score: 2,
+      stem: passage31,
+      choices: options31,
+      answer: answers[String(qid)],
+      sourceType: 'official-txt'
+    });
+  }
+
+  // 35-46 reading
+  for (const [startMarker, endMarker, ids] of [
+    ['第 35 至 38 題為題組', '第 39 至 42 題為題組', [35,36,37,38]],
+    ['第 39 至 42 題為題組', '第 43 至 46 題為題組', [39,40,41,42]],
+    ['第 43 至 46 題為題組', '第 貳 部 分', [43,44,45,46]]
+  ]) {
+    const section = extractRange(text, startMarker, endMarker).trim();
+    const firstIdx = section.search(/(?:^|\n)\d+\./);
+    const passage = section.slice(0, firstIdx).trim();
+    const qs = parseEnglishNumberedQuestions(section.slice(firstIdx), ids, null, 2)
+      .map(q => ({ ...q, stem: `${passage}\n\n${q.stem}`, answer: answers[q.id] }));
+    questions.push(...qs);
+  }
+
+  return {
+    id: 'english',
+    name: '英文',
+    note: '收錄可自動批改的客觀題 1-46；47-50 為混合或非選題未納入。',
+    questions: questions.sort((a, b) => Number(a.id) - Number(b.id))
+  };
 }
 
 function parseChoiceQuestions({ textFile, answerFile, name, id, sectionStart, sectionEnd, questionIds, score, choiceMode='letter', answerMode='letter', note }) {
@@ -244,6 +396,11 @@ subjects.push(parseMathFillSubject({
   name: '數B（選填題）',
   choicePrefix: 'math-b',
   note: '數B 選填題 13-18；非選 19-20 未支援。'
+}));
+
+subjects.push(parseEnglishSubject({
+  textFile: path.join(SRC, '英文題目.txt'),
+  answerFile: path.join(SRC, '英文答案.txt')
 }));
 
 const payload = {
