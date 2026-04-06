@@ -1,0 +1,16 @@
+Current state:
+- Local web quiz app now populated from official CEEC 115 GSAT TXT source files.
+- Fully wired subjects (non-English priority): 國綜、社會、自然、數A（選擇題 / 選填題）、數B（選擇題 / 選填題）。
+- Auto-grading works for single-choice, multi-choice, and math fill-in items included in the dataset.
+- Official-answer objective coverage currently generated:
+  - 國綜: 33 題
+  - 社會: 54 題
+  - 自然: 48 題
+  - 數A: 18 題（含選填與第18題單選）
+  - 數B: 17 題（含選填，未抓到第18題）
+- English intentionally not built out yet, per priority.
+- Remaining gaps:
+  - Questions requiring non-choice written responses are omitted from grading.
+  - Some source TXT layouts are messy; certain figure-heavy / table-heavy stems are text-only and may look rough.
+  - PDF images/diagrams are not embedded yet.
+  - 數B第18題 answer key exists but parser did not currently include it; can be added with a small parser fix if needed.
