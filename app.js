@@ -31,12 +31,16 @@ function escapeHtml(value = '') {
     .replace(/"/g, '&quot;');
 }
 
+function isMultiSelectable(q) {
+  return q.type === 'multi' || q.type === 'unknown-choice';
+}
+
 function getQuestionResponse(q) {
   if (q.type === 'single') {
     const checked = document.querySelector(`input[name="q-${q.id}"]:checked`);
     return checked ? checked.value : '';
   }
-  if (q.type === 'multi') {
+  if (isMultiSelectable(q)) {
     return [...document.querySelectorAll(`input[name="q-${q.id}"]:checked`)]
       .map(el => el.value)
       .sort()
@@ -77,7 +81,7 @@ function renderQuestion(q, idx) {
       </div>
     `;
   } else {
-    const inputType = q.type === 'multi' ? 'checkbox' : 'radio';
+    const inputType = isMultiSelectable(q) ? 'checkbox' : 'radio';
     body = `
       <div class="choices">
         ${q.choices.map(c => `
@@ -90,10 +94,18 @@ function renderQuestion(q, idx) {
     `;
   }
 
+  const typeText = q.type === 'single'
+    ? '單選'
+    : q.type === 'multi'
+      ? '多選'
+      : q.type === 'unknown-choice'
+        ? '選擇題（可複選）'
+        : '選填';
+
   box.innerHTML = `
     <div class="qhead">
       <h3>第 ${idx + 1} 題</h3>
-      <div class="meta">配分：${q.score}｜題型：${q.type === 'single' ? '單選' : q.type === 'multi' ? '多選' : '選填'}</div>
+      <div class="meta">配分：${q.score}｜題型：${typeText}</div>
     </div>
     <div class="stem">${escapeHtml(q.stem)}</div>
     ${body}
